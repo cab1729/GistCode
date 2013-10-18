@@ -17,7 +17,7 @@ Links to Gist Code
 
 - MPFloat:                https://gist.github.com/cab1729/1562150
 
-- Complex Numbers/Func:   https://gist.github.com/cab1729/1349284
+- Complex Numbers/Functions:   https://gist.github.com/cab1729/1349284
 
 - Math functions:         https://gist.github.com/cab1729/1318030
 
