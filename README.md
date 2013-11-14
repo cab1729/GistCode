@@ -3,6 +3,8 @@ GistCode
 
 Links to Gist Code
 
+- Bernoulli functions:    https://gist.github.com/cab1729/7459622
+
 - Graph Processing:       https://gist.github.com/cab1729/5259233
 
 - C# site map provider:   https://gist.github.com/cab1729/3152698
