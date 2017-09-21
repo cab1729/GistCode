@@ -23,4 +23,4 @@ Links to Gist Code
 
 - Math functions:         https://gist.github.com/cab1729/1318030
 
-- RH Research:            https://gist.github.com/cab1729/1317706
+- RH Research:            https://gist.github.com/cab1729/ee1a25fa08aa03378bae8d9b6cdc86de
